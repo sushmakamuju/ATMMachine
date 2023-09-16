@@ -1,0 +1,14 @@
+C:\Users\Navya Supriya\source\repos\atmMachine\bin\Debug\net7.0\atmMachine.exe
+C:\Users\Navya Supriya\source\repos\atmMachine\bin\Debug\net7.0\atmMachine.deps.json
+C:\Users\Navya Supriya\source\repos\atmMachine\bin\Debug\net7.0\atmMachine.runtimeconfig.json
+C:\Users\Navya Supriya\source\repos\atmMachine\bin\Debug\net7.0\atmMachine.dll
+C:\Users\Navya Supriya\source\repos\atmMachine\bin\Debug\net7.0\atmMachine.pdb
+C:\Users\Navya Supriya\source\repos\atmMachine\obj\Debug\net7.0\atmMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navya Supriya\source\repos\atmMachine\obj\Debug\net7.0\atmMachine.AssemblyInfoInputs.cache
+C:\Users\Navya Supriya\source\repos\atmMachine\obj\Debug\net7.0\atmMachine.AssemblyInfo.cs
+C:\Users\Navya Supriya\source\repos\atmMachine\obj\Debug\net7.0\atmMachine.csproj.CoreCompileInputs.cache
+C:\Users\Navya Supriya\source\repos\atmMachine\obj\Debug\net7.0\atmMachine.dll
+C:\Users\Navya Supriya\source\repos\atmMachine\obj\Debug\net7.0\refint\atmMachine.dll
+C:\Users\Navya Supriya\source\repos\atmMachine\obj\Debug\net7.0\atmMachine.pdb
+C:\Users\Navya Supriya\source\repos\atmMachine\obj\Debug\net7.0\atmMachine.genruntimeconfig.cache
+C:\Users\Navya Supriya\source\repos\atmMachine\obj\Debug\net7.0\ref\atmMachine.dll
